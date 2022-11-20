@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/http//Revolt-47.github.io/basic/static/css/main.073c9b0a.css",
-    "main.js": "/http//Revolt-47.github.io/basic/static/js/main.59d05e78.js",
+    "main.js": "/http//Revolt-47.github.io/basic/static/js/main.48267b6b.js",
     "static/js/787.05671433.chunk.js": "/http//Revolt-47.github.io/basic/static/js/787.05671433.chunk.js",
     "static/media/logo.svg": "/http//Revolt-47.github.io/basic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/http//Revolt-47.github.io/basic/index.html",
     "main.073c9b0a.css.map": "/http//Revolt-47.github.io/basic/static/css/main.073c9b0a.css.map",
-    "main.59d05e78.js.map": "/http//Revolt-47.github.io/basic/static/js/main.59d05e78.js.map",
+    "main.48267b6b.js.map": "/http//Revolt-47.github.io/basic/static/js/main.48267b6b.js.map",
     "787.05671433.chunk.js.map": "/http//Revolt-47.github.io/basic/static/js/787.05671433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59d05e78.js"
+    "static/js/main.48267b6b.js"
   ]
 }
